@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Controllers_b55c3cc6"
+        },
+        {
+            "name": "Run Lua",
+            "type": "lua",
+            "request": "launch",
+            "program": "${file}"
+        }
+    ]
+}
