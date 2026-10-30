@@ -1,0 +1,5 @@
+# VS Code settings (anywhere in the repo)
+**/.vscode/
+
+# Stormworks microcontroller export (anywhere in the repo)
+**/MyMicrocontroller.lua
